@@ -1,4 +1,20 @@
-# DevOps Git Project
+# DevOps Git Workflow Project
 
-This project demonstrates Git version control workflow with branches,
-pull requests, tags, and documentation.
+## Tools
+- Git
+- GitHub
+
+## Branches
+- main
+- dev
+- feature-login
+
+## Features
+- Version control
+- Branching workflow
+- Pull requests
+- Git tags
+- Documentation
+
+## Author
+Shreeraksha
